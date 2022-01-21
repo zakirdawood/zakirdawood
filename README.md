@@ -1,4 +1,4 @@
-### Hi there, I'm Zakir 👋
+<h1 style="text-align: center;"> Hi there, I'm Zakir 👋 </h1>
 
 <!--
 **zakirdawood/zakirdawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
