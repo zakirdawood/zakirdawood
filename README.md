@@ -1,6 +1,8 @@
 <h1 style="text-align: center;"> Hi there, I'm Zakir 👋 </h1>
 
 <p>I'm a computer science student at Ryerson University. I enjoy working in a variety of fields, even if they're not cs-based. My interests currently lie in Software Development, Data Analysis and Software Engineering. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakirdawood.herokuapp.com/" target="_blank">portfolio website</a>.</p>
+
+<p>[![Zakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakirdawood)](https://github.com/anuraghazra/github-readme-stats)</p>
 <!--
 **zakirdawood/zakirdawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
