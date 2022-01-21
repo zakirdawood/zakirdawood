@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"> Hi there, I'm Zakir 👋 </h1>
 
-<p>I'm a computer science student at Ryerson University. I enjoy working in a variety of fields. My interests currently lie in Software Development, Data Analysis and Software Engineering.</p>
+<p>I'm a computer science student at Ryerson University. I enjoy working in a variety of fields. My interests currently lie in Software Development, Data Analysis and Software Engineering. Though you will find a lot of my work here, you can find out more about me at my <a href="https://zakirdawood.herokuapp.com/">portfolio website</a></p>
 <!--
 **zakirdawood/zakirdawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
