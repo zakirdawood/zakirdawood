@@ -24,6 +24,10 @@
     <li>Semantic UI</li>
     <li>Django</li>
    </ul>
+   
+<h2>Current Status</h2>
+<p>As the Winter semester has started up again, my focus shifts to my academic commitments again. In my spare time, I'm working with my friend on creating a site to help high school students with their university applications. Once the site is completed and/or hosted, the repository will be available.</p>
+<p>On a more fun note, I'm always watching a tonne of shows (current completion count at about 30). I'm currently on season 7 of the Office and season 6 of Suits.</p>
 
 <h2>Statistics</h2>
 
