@@ -16,6 +16,8 @@
     <li>JavaScript</li>
     <li>Lisp (yes, i know)</li>
     <li>C</li>
+    <li>Smalltalk (Rye Students know why)</li>
+    <li>Elixir</li>
   </ul>
  <h3>Technologies/Frameworks</h3>
    <ul>
