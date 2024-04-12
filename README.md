@@ -2,34 +2,36 @@
 
 <h2>About Me</h2>
 
-<p>I'm a computer science student at Ryerson University. I enjoy working in a variety of fields, even if they're not cs-based. My interests currently lie in Software Development, Data Analysis and Software Engineering. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakirdawood.herokuapp.com/" target="_blank">portfolio website</a>.</p>
+<p>I'm a computer science student at Toronto Metropolitan (formerly Ryerson) University. I enjoy working in a variety of fields, even if they're not CS-based. My interests currently lie in Software Development/Engineering and Data Analytics/Science. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakirdawood.herokuapp.com/" target="_blank">portfolio website</a>.</p>
 
 <h2>Skills</h2>
-<h3>Languages</h3>
+<h3>Languages/Frameworks/Libraries</h3>
   <ul>
     <li>Python</li>
     <li>Java</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>PHP</li>
+    <li>SQL</li>
     <li>Visual Basic</li>
     <li>JavaScript</li>
-    <li>Lisp (yes, i know)</li>
-    <li>C</li>
-    <li>Smalltalk (Rye Students know why)</li>
     <li>Elixir</li>
+    <li>Django</li>
+    <li>Numpy</li>
+    <li>Pandas</li>
+    <li>Selenium</li>
   </ul>
  <h3>Technologies/Frameworks</h3>
    <ul>
-    <li>SQL/mySQL</li>
-    <li>Bootstrap</li>
-    <li>Semantic UI</li>
-    <li>Django</li>
+    <li>Power BI</li>
+    <li>Git/Github (You would hope so)</li>
+    <li>Visual Studio</li>
+    <li>SSRS</li>
+    <li>Firebase</li>
    </ul>
    
 <h2>Current Status</h2>
-<p>As the Winter semester has started up again, my main focus shifts to my academic commitments again. In my spare time, I'm working with my friend on creating a site to help high school students with their university applications. Once the site is completed and/or hosted, the repository will be available.</p>
-<p>On a more fun note, I'm always watching a tonne of shows (current completion count at about 30). I'm currently on season 6 of Suits. Hmu if you have any interesting shows!</p>
+<p>Wrapping up my Winter semester and preparing for Vancouver</p>
 
 <h2>Statistics</h2>
 
