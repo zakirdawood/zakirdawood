@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p>I'm a computer science student at Toronto Metropolitan (formerly Ryerson) University. I enjoy working in a variety of fields, even if they're not CS-based. My interests currently lie in Software Development/Engineering and Data Analytics/Science. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakirdawood.herokuapp.com/" target="_blank">portfolio website</a>.</p>
+<p>I'm a computer science student at Toronto Metropolitan (formerly Ryerson) University. I enjoy working in a variety of fields, even if they're not CS-based. I currently specialize in data analytics and data science. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakir-dawood.onrender.com/" target="_blank">portfolio website</a>.</p>
 
 <h2>Skills</h2>
 <h3>Languages/Frameworks/Libraries</h3>
@@ -31,7 +31,7 @@
    </ul>
    
 <h2>Current Status</h2>
-<p>Wrapping up my Winter semester and preparing for Vancouver</p>
+<p>Just graduated and open to opportunities</p>
 
 <h2>Statistics</h2>
 
